@@ -15,4 +15,4 @@ Remember, You will need ```eds Files``` to add a slave device to your device rep
 - Just Downlad the ```.project``` files and open as a codesys project
 
 ## Demo
-- You can find a Video Demo on [how to implement Modbus TCP Slave in Codesys Here](https://www.youtube.com/watch?v=ywS966fEsuo)
+- You can find a Video Demo on [how to implement Modbus TCP Slave in Codesys Here](https://youtu.be/8XYEzj9Zrkk)
